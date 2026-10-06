@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <RootNamespace>ImageMetadataViewer.App</RootNamespace>
+    <AssemblyName>ImageMetadataViewer</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ImageMetadataViewer.Engine\ImageMetadataViewer.Engine.csproj" />
+    <ProjectReference Include="..\ImageMetadataViewer.Infrastructure\ImageMetadataViewer.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

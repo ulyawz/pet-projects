@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\pet-projects\\ColorModelConverter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6EB4D0-5E51-4399-8A66-0593D2376237}|ColorModelConverter.Core\\ColorModelConverter.Core.csproj|e:\\pet-projects\\colormodelconverter\\colormodelconverter.core\\matrixmath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC6EB4D0-5E51-4399-8A66-0593D2376237}|ColorModelConverter.Core\\ColorModelConverter.Core.csproj|solutionrelative:colormodelconverter.core\\matrixmath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B229683-168F-4906-8022-08CFA60FB36F}|ColorModelConverter.App\\ColorModelConverter.App.csproj|e:\\pet-projects\\colormodelconverter\\colormodelconverter.app\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6B229683-168F-4906-8022-08CFA60FB36F}|ColorModelConverter.App\\ColorModelConverter.App.csproj|solutionrelative:colormodelconverter.app\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B229683-168F-4906-8022-08CFA60FB36F}|ColorModelConverter.App\\ColorModelConverter.App.csproj|e:\\pet-projects\\colormodelconverter\\colormodelconverter.app\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B229683-168F-4906-8022-08CFA60FB36F}|ColorModelConverter.App\\ColorModelConverter.App.csproj|solutionrelative:colormodelconverter.app\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44D2D4D-93CE-4AA5-96BD-AD2E27E52680}|ColorModelConverter.Tests\\ColorModelConverter.Tests.csproj|e:\\pet-projects\\colormodelconverter\\colormodelconverter.tests\\colormodeltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B44D2D4D-93CE-4AA5-96BD-AD2E27E52680}|ColorModelConverter.Tests\\ColorModelConverter.Tests.csproj|solutionrelative:colormodelconverter.tests\\colormodeltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44D2D4D-93CE-4AA5-96BD-AD2E27E52680}|ColorModelConverter.Tests\\ColorModelConverter.Tests.csproj|e:\\pet-projects\\colormodelconverter\\colormodelconverter.tests\\colormathtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B44D2D4D-93CE-4AA5-96BD-AD2E27E52680}|ColorModelConverter.Tests\\ColorModelConverter.Tests.csproj|solutionrelative:colormodelconverter.tests\\colormathtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6EB4D0-5E51-4399-8A66-0593D2376237}|ColorModelConverter.Core\\ColorModelConverter.Core.csproj|e:\\pet-projects\\colormodelconverter\\colormodelconverter.core\\rgbprimaries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC6EB4D0-5E51-4399-8A66-0593D2376237}|ColorModelConverter.Core\\ColorModelConverter.Core.csproj|solutionrelative:colormodelconverter.core\\rgbprimaries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6EB4D0-5E51-4399-8A66-0593D2376237}|ColorModelConverter.Core\\ColorModelConverter.Core.csproj|e:\\pet-projects\\colormodelconverter\\colormodelconverter.core\\illuminant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC6EB4D0-5E51-4399-8A66-0593D2376237}|ColorModelConverter.Core\\ColorModelConverter.Core.csproj|solutionrelative:colormodelconverter.core\\illuminant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6EB4D0-5E51-4399-8A66-0593D2376237}|ColorModelConverter.Core\\ColorModelConverter.Core.csproj|e:\\pet-projects\\colormodelconverter\\colormodelconverter.core\\colormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC6EB4D0-5E51-4399-8A66-0593D2376237}|ColorModelConverter.Core\\ColorModelConverter.Core.csproj|solutionrelative:colormodelconverter.core\\colormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6EB4D0-5E51-4399-8A66-0593D2376237}|ColorModelConverter.Core\\ColorModelConverter.Core.csproj|e:\\pet-projects\\colormodelconverter\\colormodelconverter.core\\colormath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC6EB4D0-5E51-4399-8A66-0593D2376237}|ColorModelConverter.Core\\ColorModelConverter.Core.csproj|solutionrelative:colormodelconverter.core\\colormath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B229683-168F-4906-8022-08CFA60FB36F}|ColorModelConverter.App\\ColorModelConverter.App.csproj|e:\\pet-projects\\colormodelconverter\\colormodelconverter.app\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B229683-168F-4906-8022-08CFA60FB36F}|ColorModelConverter.App\\ColorModelConverter.App.csproj|solutionrelative:colormodelconverter.app\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B229683-168F-4906-8022-08CFA60FB36F}|ColorModelConverter.App\\ColorModelConverter.App.csproj|e:\\pet-projects\\colormodelconverter\\colormodelconverter.app\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B229683-168F-4906-8022-08CFA60FB36F}|ColorModelConverter.App\\ColorModelConverter.App.csproj|solutionrelative:colormodelconverter.app\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "E:\\pet-projects\\ColorModelConverter\\ColorModelConverter.App\\App.xaml",
+              "RelativeDocumentMoniker": "ColorModelConverter.App\\App.xaml",
+              "ToolTip": "E:\\pet-projects\\ColorModelConverter\\ColorModelConverter.App\\App.xaml",
+              "RelativeToolTip": "ColorModelConverter.App\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-06T18:49:18.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ColorModelTests.cs",
+              "DocumentMoniker": "E:\\pet-projects\\ColorModelConverter\\ColorModelConverter.Tests\\ColorModelTests.cs",
+              "RelativeDocumentMoniker": "ColorModelConverter.Tests\\ColorModelTests.cs",
+              "ToolTip": "E:\\pet-projects\\ColorModelConverter\\ColorModelConverter.Tests\\ColorModelTests.cs",
+              "RelativeToolTip": "ColorModelConverter.Tests\\ColorModelTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T18:49:10.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ColorMathTests.cs",
+              "DocumentMoniker": "E:\\pet-projects\\ColorModelConverter\\ColorModelConverter.Tests\\ColorMathTests.cs",
+              "RelativeDocumentMoniker": "ColorModelConverter.Tests\\ColorMathTests.cs",
+              "ToolTip": "E:\\pet-projects\\ColorModelConverter\\ColorModelConverter.Tests\\ColorMathTests.cs",
+              "RelativeToolTip": "ColorModelConverter.Tests\\ColorMathTests.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T18:49:06.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RgbPrimaries.cs",
+              "DocumentMoniker": "E:\\pet-projects\\ColorModelConverter\\ColorModelConverter.Core\\RgbPrimaries.cs",
+              "RelativeDocumentMoniker": "ColorModelConverter.Core\\RgbPrimaries.cs",
+              "ToolTip": "E:\\pet-projects\\ColorModelConverter\\ColorModelConverter.Core\\RgbPrimaries.cs",
+              "RelativeToolTip": "ColorModelConverter.Core\\RgbPrimaries.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T18:49:02.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MatrixMath.cs",
+              "DocumentMoniker": "E:\\pet-projects\\ColorModelConverter\\ColorModelConverter.Core\\MatrixMath.cs",
+              "RelativeDocumentMoniker": "ColorModelConverter.Core\\MatrixMath.cs",
+              "ToolTip": "E:\\pet-projects\\ColorModelConverter\\ColorModelConverter.Core\\MatrixMath.cs",
+              "RelativeToolTip": "ColorModelConverter.Core\\MatrixMath.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T18:48:52.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Illuminant.cs",
+              "DocumentMoniker": "E:\\pet-projects\\ColorModelConverter\\ColorModelConverter.Core\\Illuminant.cs",
+              "RelativeDocumentMoniker": "ColorModelConverter.Core\\Illuminant.cs",
+              "ToolTip": "E:\\pet-projects\\ColorModelConverter\\ColorModelConverter.Core\\Illuminant.cs",
+              "RelativeToolTip": "ColorModelConverter.Core\\Illuminant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T18:48:50.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\pet-projects\\ColorModelConverter\\ColorModelConverter.App\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ColorModelConverter.App\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\pet-projects\\ColorModelConverter\\ColorModelConverter.App\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ColorModelConverter.App\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAzwJwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T18:47:33.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ColorModel.cs",
+              "DocumentMoniker": "E:\\pet-projects\\ColorModelConverter\\ColorModelConverter.Core\\ColorModel.cs",
+              "RelativeDocumentMoniker": "ColorModelConverter.Core\\ColorModel.cs",
+              "ToolTip": "E:\\pet-projects\\ColorModelConverter\\ColorModelConverter.Core\\ColorModel.cs",
+              "RelativeToolTip": "ColorModelConverter.Core\\ColorModel.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T18:48:46.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ColorMath.cs",
+              "DocumentMoniker": "E:\\pet-projects\\ColorModelConverter\\ColorModelConverter.Core\\ColorMath.cs",
+              "RelativeDocumentMoniker": "ColorModelConverter.Core\\ColorMath.cs",
+              "ToolTip": "E:\\pet-projects\\ColorModelConverter\\ColorModelConverter.Core\\ColorMath.cs",
+              "RelativeToolTip": "ColorModelConverter.Core\\ColorMath.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T18:48:42.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "E:\\pet-projects\\ColorModelConverter\\ColorModelConverter.App\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "ColorModelConverter.App\\MainWindowViewModel.cs",
+              "ToolTip": "E:\\pet-projects\\ColorModelConverter\\ColorModelConverter.App\\MainWindowViewModel.cs",
+              "RelativeToolTip": "ColorModelConverter.App\\MainWindowViewModel.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T18:48:35.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "E:\\pet-projects\\ColorModelConverter\\ColorModelConverter.App\\App.xaml.cs",
+              "RelativeDocumentMoniker": "ColorModelConverter.App\\App.xaml.cs",
+              "ToolTip": "E:\\pet-projects\\ColorModelConverter\\ColorModelConverter.App\\App.xaml.cs",
+              "RelativeToolTip": "ColorModelConverter.App\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T18:47:28.41Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

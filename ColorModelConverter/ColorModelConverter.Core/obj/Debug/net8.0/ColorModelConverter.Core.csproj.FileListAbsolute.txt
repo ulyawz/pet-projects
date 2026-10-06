@@ -1,0 +1,12 @@
+E:\pet-projects\ColorModelConverter\ColorModelConverter.Core\bin\Debug\net8.0\ColorModelConverter.Core.deps.json
+E:\pet-projects\ColorModelConverter\ColorModelConverter.Core\bin\Debug\net8.0\ColorModelConverter.Core.dll
+E:\pet-projects\ColorModelConverter\ColorModelConverter.Core\bin\Debug\net8.0\ColorModelConverter.Core.pdb
+E:\pet-projects\ColorModelConverter\ColorModelConverter.Core\obj\Debug\net8.0\ColorModelConverter.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\pet-projects\ColorModelConverter\ColorModelConverter.Core\obj\Debug\net8.0\ColorModelConverter.Core.AssemblyInfoInputs.cache
+E:\pet-projects\ColorModelConverter\ColorModelConverter.Core\obj\Debug\net8.0\ColorModelConverter.Core.AssemblyInfo.cs
+E:\pet-projects\ColorModelConverter\ColorModelConverter.Core\obj\Debug\net8.0\ColorModelConverter.Core.csproj.CoreCompileInputs.cache
+E:\pet-projects\ColorModelConverter\ColorModelConverter.Core\obj\Debug\net8.0\ColorModelConverter.Core.sourcelink.json
+E:\pet-projects\ColorModelConverter\ColorModelConverter.Core\obj\Debug\net8.0\ColorModelConverter.Core.dll
+E:\pet-projects\ColorModelConverter\ColorModelConverter.Core\obj\Debug\net8.0\refint\ColorModelConverter.Core.dll
+E:\pet-projects\ColorModelConverter\ColorModelConverter.Core\obj\Debug\net8.0\ColorModelConverter.Core.pdb
+E:\pet-projects\ColorModelConverter\ColorModelConverter.Core\obj\Debug\net8.0\ref\ColorModelConverter.Core.dll

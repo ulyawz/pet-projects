@@ -1,0 +1,308 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\pet-projects\\ImageMetadataViewer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35EB578E-91C0-49F3-82C7-85E93A4F33F1}|ImageMetadataViewer.Infrastructure\\ImageMetadataViewer.Infrastructure.csproj|e:\\pet-projects\\imagemetadataviewer\\imagemetadataviewer.infrastructure\\bytereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35EB578E-91C0-49F3-82C7-85E93A4F33F1}|ImageMetadataViewer.Infrastructure\\ImageMetadataViewer.Infrastructure.csproj|solutionrelative:imagemetadataviewer.infrastructure\\bytereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35EB578E-91C0-49F3-82C7-85E93A4F33F1}|ImageMetadataViewer.Infrastructure\\ImageMetadataViewer.Infrastructure.csproj|e:\\pet-projects\\imagemetadataviewer\\imagemetadataviewer.infrastructure\\parsers\\tiffparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35EB578E-91C0-49F3-82C7-85E93A4F33F1}|ImageMetadataViewer.Infrastructure\\ImageMetadataViewer.Infrastructure.csproj|solutionrelative:imagemetadataviewer.infrastructure\\parsers\\tiffparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35EB578E-91C0-49F3-82C7-85E93A4F33F1}|ImageMetadataViewer.Infrastructure\\ImageMetadataViewer.Infrastructure.csproj|e:\\pet-projects\\imagemetadataviewer\\imagemetadataviewer.infrastructure\\parsers\\pngparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35EB578E-91C0-49F3-82C7-85E93A4F33F1}|ImageMetadataViewer.Infrastructure\\ImageMetadataViewer.Infrastructure.csproj|solutionrelative:imagemetadataviewer.infrastructure\\parsers\\pngparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35EB578E-91C0-49F3-82C7-85E93A4F33F1}|ImageMetadataViewer.Infrastructure\\ImageMetadataViewer.Infrastructure.csproj|e:\\pet-projects\\imagemetadataviewer\\imagemetadataviewer.infrastructure\\parsers\\pcxparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35EB578E-91C0-49F3-82C7-85E93A4F33F1}|ImageMetadataViewer.Infrastructure\\ImageMetadataViewer.Infrastructure.csproj|solutionrelative:imagemetadataviewer.infrastructure\\parsers\\pcxparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35EB578E-91C0-49F3-82C7-85E93A4F33F1}|ImageMetadataViewer.Infrastructure\\ImageMetadataViewer.Infrastructure.csproj|e:\\pet-projects\\imagemetadataviewer\\imagemetadataviewer.infrastructure\\parsers\\jpegparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35EB578E-91C0-49F3-82C7-85E93A4F33F1}|ImageMetadataViewer.Infrastructure\\ImageMetadataViewer.Infrastructure.csproj|solutionrelative:imagemetadataviewer.infrastructure\\parsers\\jpegparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35EB578E-91C0-49F3-82C7-85E93A4F33F1}|ImageMetadataViewer.Infrastructure\\ImageMetadataViewer.Infrastructure.csproj|e:\\pet-projects\\imagemetadataviewer\\imagemetadataviewer.infrastructure\\parsers\\gifparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35EB578E-91C0-49F3-82C7-85E93A4F33F1}|ImageMetadataViewer.Infrastructure\\ImageMetadataViewer.Infrastructure.csproj|solutionrelative:imagemetadataviewer.infrastructure\\parsers\\gifparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35EB578E-91C0-49F3-82C7-85E93A4F33F1}|ImageMetadataViewer.Infrastructure\\ImageMetadataViewer.Infrastructure.csproj|e:\\pet-projects\\imagemetadataviewer\\imagemetadataviewer.infrastructure\\parsers\\bmpparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35EB578E-91C0-49F3-82C7-85E93A4F33F1}|ImageMetadataViewer.Infrastructure\\ImageMetadataViewer.Infrastructure.csproj|solutionrelative:imagemetadataviewer.infrastructure\\parsers\\bmpparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35EB578E-91C0-49F3-82C7-85E93A4F33F1}|ImageMetadataViewer.Infrastructure\\ImageMetadataViewer.Infrastructure.csproj|e:\\pet-projects\\imagemetadataviewer\\imagemetadataviewer.infrastructure\\parserregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35EB578E-91C0-49F3-82C7-85E93A4F33F1}|ImageMetadataViewer.Infrastructure\\ImageMetadataViewer.Infrastructure.csproj|solutionrelative:imagemetadataviewer.infrastructure\\parserregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35EB578E-91C0-49F3-82C7-85E93A4F33F1}|ImageMetadataViewer.Infrastructure\\ImageMetadataViewer.Infrastructure.csproj|e:\\pet-projects\\imagemetadataviewer\\imagemetadataviewer.infrastructure\\imagemetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35EB578E-91C0-49F3-82C7-85E93A4F33F1}|ImageMetadataViewer.Infrastructure\\ImageMetadataViewer.Infrastructure.csproj|solutionrelative:imagemetadataviewer.infrastructure\\imagemetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35EB578E-91C0-49F3-82C7-85E93A4F33F1}|ImageMetadataViewer.Infrastructure\\ImageMetadataViewer.Infrastructure.csproj|e:\\pet-projects\\imagemetadataviewer\\imagemetadataviewer.infrastructure\\iimageparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35EB578E-91C0-49F3-82C7-85E93A4F33F1}|ImageMetadataViewer.Infrastructure\\ImageMetadataViewer.Infrastructure.csproj|solutionrelative:imagemetadataviewer.infrastructure\\iimageparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B22623B1-2FDC-4DEE-9335-FCDDE0791D7D}|ImageMetadataViewer.Engine\\ImageMetadataViewer.Engine.csproj|e:\\pet-projects\\imagemetadataviewer\\imagemetadataviewer.engine\\scanprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B22623B1-2FDC-4DEE-9335-FCDDE0791D7D}|ImageMetadataViewer.Engine\\ImageMetadataViewer.Engine.csproj|solutionrelative:imagemetadataviewer.engine\\scanprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B22623B1-2FDC-4DEE-9335-FCDDE0791D7D}|ImageMetadataViewer.Engine\\ImageMetadataViewer.Engine.csproj|e:\\pet-projects\\imagemetadataviewer\\imagemetadataviewer.engine\\folderscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B22623B1-2FDC-4DEE-9335-FCDDE0791D7D}|ImageMetadataViewer.Engine\\ImageMetadataViewer.Engine.csproj|solutionrelative:imagemetadataviewer.engine\\folderscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB681B3A-208D-4BC7-ACE4-C148ACF4C1AD}|ImageMetadataViewer.App\\ImageMetadataViewer.App.csproj|e:\\pet-projects\\imagemetadataviewer\\imagemetadataviewer.app\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB681B3A-208D-4BC7-ACE4-C148ACF4C1AD}|ImageMetadataViewer.App\\ImageMetadataViewer.App.csproj|solutionrelative:imagemetadataviewer.app\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB681B3A-208D-4BC7-ACE4-C148ACF4C1AD}|ImageMetadataViewer.App\\ImageMetadataViewer.App.csproj|e:\\pet-projects\\imagemetadataviewer\\imagemetadataviewer.app\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB681B3A-208D-4BC7-ACE4-C148ACF4C1AD}|ImageMetadataViewer.App\\ImageMetadataViewer.App.csproj|solutionrelative:imagemetadataviewer.app\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB681B3A-208D-4BC7-ACE4-C148ACF4C1AD}|ImageMetadataViewer.App\\ImageMetadataViewer.App.csproj|e:\\pet-projects\\imagemetadataviewer\\imagemetadataviewer.app\\converters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB681B3A-208D-4BC7-ACE4-C148ACF4C1AD}|ImageMetadataViewer.App\\ImageMetadataViewer.App.csproj|solutionrelative:imagemetadataviewer.app\\converters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB681B3A-208D-4BC7-ACE4-C148ACF4C1AD}|ImageMetadataViewer.App\\ImageMetadataViewer.App.csproj|e:\\pet-projects\\imagemetadataviewer\\imagemetadataviewer.app\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AB681B3A-208D-4BC7-ACE4-C148ACF4C1AD}|ImageMetadataViewer.App\\ImageMetadataViewer.App.csproj|solutionrelative:imagemetadataviewer.app\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB681B3A-208D-4BC7-ACE4-C148ACF4C1AD}|ImageMetadataViewer.App\\ImageMetadataViewer.App.csproj|e:\\pet-projects\\imagemetadataviewer\\imagemetadataviewer.app\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB681B3A-208D-4BC7-ACE4-C148ACF4C1AD}|ImageMetadataViewer.App\\ImageMetadataViewer.App.csproj|solutionrelative:imagemetadataviewer.app\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TiffParser.cs",
+              "DocumentMoniker": "E:\\pet-projects\\ImageMetadataViewer\\ImageMetadataViewer.Infrastructure\\Parsers\\TiffParser.cs",
+              "RelativeDocumentMoniker": "ImageMetadataViewer.Infrastructure\\Parsers\\TiffParser.cs",
+              "ToolTip": "E:\\pet-projects\\ImageMetadataViewer\\ImageMetadataViewer.Infrastructure\\Parsers\\TiffParser.cs",
+              "RelativeToolTip": "ImageMetadataViewer.Infrastructure\\Parsers\\TiffParser.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAswHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T19:00:25.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PngParser.cs",
+              "DocumentMoniker": "E:\\pet-projects\\ImageMetadataViewer\\ImageMetadataViewer.Infrastructure\\Parsers\\PngParser.cs",
+              "RelativeDocumentMoniker": "ImageMetadataViewer.Infrastructure\\Parsers\\PngParser.cs",
+              "ToolTip": "E:\\pet-projects\\ImageMetadataViewer\\ImageMetadataViewer.Infrastructure\\Parsers\\PngParser.cs",
+              "RelativeToolTip": "ImageMetadataViewer.Infrastructure\\Parsers\\PngParser.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAkwHkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T18:59:30.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PcxParser.cs",
+              "DocumentMoniker": "E:\\pet-projects\\ImageMetadataViewer\\ImageMetadataViewer.Infrastructure\\Parsers\\PcxParser.cs",
+              "RelativeDocumentMoniker": "ImageMetadataViewer.Infrastructure\\Parsers\\PcxParser.cs",
+              "ToolTip": "E:\\pet-projects\\ImageMetadataViewer\\ImageMetadataViewer.Infrastructure\\Parsers\\PcxParser.cs",
+              "RelativeToolTip": "ImageMetadataViewer.Infrastructure\\Parsers\\PcxParser.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T18:59:19.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JpegParser.cs",
+              "DocumentMoniker": "E:\\pet-projects\\ImageMetadataViewer\\ImageMetadataViewer.Infrastructure\\Parsers\\JpegParser.cs",
+              "RelativeDocumentMoniker": "ImageMetadataViewer.Infrastructure\\Parsers\\JpegParser.cs",
+              "ToolTip": "E:\\pet-projects\\ImageMetadataViewer\\ImageMetadataViewer.Infrastructure\\Parsers\\JpegParser.cs",
+              "RelativeToolTip": "ImageMetadataViewer.Infrastructure\\Parsers\\JpegParser.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAgwGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T18:58:31.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GifParser.cs",
+              "DocumentMoniker": "E:\\pet-projects\\ImageMetadataViewer\\ImageMetadataViewer.Infrastructure\\Parsers\\GifParser.cs",
+              "RelativeDocumentMoniker": "ImageMetadataViewer.Infrastructure\\Parsers\\GifParser.cs",
+              "ToolTip": "E:\\pet-projects\\ImageMetadataViewer\\ImageMetadataViewer.Infrastructure\\Parsers\\GifParser.cs",
+              "RelativeToolTip": "ImageMetadataViewer.Infrastructure\\Parsers\\GifParser.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T18:58:09.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BmpParser.cs",
+              "DocumentMoniker": "E:\\pet-projects\\ImageMetadataViewer\\ImageMetadataViewer.Infrastructure\\Parsers\\BmpParser.cs",
+              "RelativeDocumentMoniker": "ImageMetadataViewer.Infrastructure\\Parsers\\BmpParser.cs",
+              "ToolTip": "E:\\pet-projects\\ImageMetadataViewer\\ImageMetadataViewer.Infrastructure\\Parsers\\BmpParser.cs",
+              "RelativeToolTip": "ImageMetadataViewer.Infrastructure\\Parsers\\BmpParser.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAgwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T18:57:29.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ByteReader.cs",
+              "DocumentMoniker": "E:\\pet-projects\\ImageMetadataViewer\\ImageMetadataViewer.Infrastructure\\ByteReader.cs",
+              "RelativeDocumentMoniker": "ImageMetadataViewer.Infrastructure\\ByteReader.cs",
+              "ToolTip": "E:\\pet-projects\\ImageMetadataViewer\\ImageMetadataViewer.Infrastructure\\ByteReader.cs",
+              "RelativeToolTip": "ImageMetadataViewer.Infrastructure\\ByteReader.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAIwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T18:56:14.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ParserRegistry.cs",
+              "DocumentMoniker": "E:\\pet-projects\\ImageMetadataViewer\\ImageMetadataViewer.Infrastructure\\ParserRegistry.cs",
+              "RelativeDocumentMoniker": "ImageMetadataViewer.Infrastructure\\ParserRegistry.cs",
+              "ToolTip": "E:\\pet-projects\\ImageMetadataViewer\\ImageMetadataViewer.Infrastructure\\ParserRegistry.cs",
+              "RelativeToolTip": "ImageMetadataViewer.Infrastructure\\ParserRegistry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T18:57:05.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ImageMetadata.cs",
+              "DocumentMoniker": "E:\\pet-projects\\ImageMetadataViewer\\ImageMetadataViewer.Infrastructure\\ImageMetadata.cs",
+              "RelativeDocumentMoniker": "ImageMetadataViewer.Infrastructure\\ImageMetadata.cs",
+              "ToolTip": "E:\\pet-projects\\ImageMetadataViewer\\ImageMetadataViewer.Infrastructure\\ImageMetadata.cs",
+              "RelativeToolTip": "ImageMetadataViewer.Infrastructure\\ImageMetadata.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T18:56:45.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IImageParser.cs",
+              "DocumentMoniker": "E:\\pet-projects\\ImageMetadataViewer\\ImageMetadataViewer.Infrastructure\\IImageParser.cs",
+              "RelativeDocumentMoniker": "ImageMetadataViewer.Infrastructure\\IImageParser.cs",
+              "ToolTip": "E:\\pet-projects\\ImageMetadataViewer\\ImageMetadataViewer.Infrastructure\\IImageParser.cs",
+              "RelativeToolTip": "ImageMetadataViewer.Infrastructure\\IImageParser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T18:56:32.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ScanProgress.cs",
+              "DocumentMoniker": "E:\\pet-projects\\ImageMetadataViewer\\ImageMetadataViewer.Engine\\ScanProgress.cs",
+              "RelativeDocumentMoniker": "ImageMetadataViewer.Engine\\ScanProgress.cs",
+              "ToolTip": "E:\\pet-projects\\ImageMetadataViewer\\ImageMetadataViewer.Engine\\ScanProgress.cs",
+              "RelativeToolTip": "ImageMetadataViewer.Engine\\ScanProgress.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T18:56:02.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FolderScanner.cs",
+              "DocumentMoniker": "E:\\pet-projects\\ImageMetadataViewer\\ImageMetadataViewer.Engine\\FolderScanner.cs",
+              "RelativeDocumentMoniker": "ImageMetadataViewer.Engine\\FolderScanner.cs",
+              "ToolTip": "E:\\pet-projects\\ImageMetadataViewer\\ImageMetadataViewer.Engine\\FolderScanner.cs",
+              "RelativeToolTip": "ImageMetadataViewer.Engine\\FolderScanner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T18:55:38.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "E:\\pet-projects\\ImageMetadataViewer\\ImageMetadataViewer.App\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "ImageMetadataViewer.App\\MainWindowViewModel.cs",
+              "ToolTip": "E:\\pet-projects\\ImageMetadataViewer\\ImageMetadataViewer.App\\MainWindowViewModel.cs",
+              "RelativeToolTip": "ImageMetadataViewer.App\\MainWindowViewModel.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAIwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T18:55:14.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\pet-projects\\ImageMetadataViewer\\ImageMetadataViewer.App\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ImageMetadataViewer.App\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\pet-projects\\ImageMetadataViewer\\ImageMetadataViewer.App\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ImageMetadataViewer.App\\MainWindow.xaml.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowFoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T18:54:52.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\pet-projects\\ImageMetadataViewer\\ImageMetadataViewer.App\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ImageMetadataViewer.App\\MainWindow.xaml",
+              "ToolTip": "E:\\pet-projects\\ImageMetadataViewer\\ImageMetadataViewer.App\\MainWindow.xaml",
+              "RelativeToolTip": "ImageMetadataViewer.App\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-06T18:53:59.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Converters.cs",
+              "DocumentMoniker": "E:\\pet-projects\\ImageMetadataViewer\\ImageMetadataViewer.App\\Converters.cs",
+              "RelativeDocumentMoniker": "ImageMetadataViewer.App\\Converters.cs",
+              "ToolTip": "E:\\pet-projects\\ImageMetadataViewer\\ImageMetadataViewer.App\\Converters.cs",
+              "RelativeToolTip": "ImageMetadataViewer.App\\Converters.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAADgvygAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T18:53:34.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "E:\\pet-projects\\ImageMetadataViewer\\ImageMetadataViewer.App\\App.xaml.cs",
+              "RelativeDocumentMoniker": "ImageMetadataViewer.App\\App.xaml.cs",
+              "ToolTip": "E:\\pet-projects\\ImageMetadataViewer\\ImageMetadataViewer.App\\App.xaml.cs",
+              "RelativeToolTip": "ImageMetadataViewer.App\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T18:53:30.43Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

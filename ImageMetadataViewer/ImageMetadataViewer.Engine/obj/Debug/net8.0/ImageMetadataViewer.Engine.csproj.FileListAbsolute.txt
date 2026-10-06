@@ -1,0 +1,16 @@
+E:\pet-projects\ImageMetadataViewer\ImageMetadataViewer.Engine\bin\Debug\net8.0\ImageMetadataViewer.Engine.deps.json
+E:\pet-projects\ImageMetadataViewer\ImageMetadataViewer.Engine\bin\Debug\net8.0\ImageMetadataViewer.Engine.dll
+E:\pet-projects\ImageMetadataViewer\ImageMetadataViewer.Engine\bin\Debug\net8.0\ImageMetadataViewer.Engine.pdb
+E:\pet-projects\ImageMetadataViewer\ImageMetadataViewer.Engine\bin\Debug\net8.0\ImageMetadataViewer.Infrastructure.dll
+E:\pet-projects\ImageMetadataViewer\ImageMetadataViewer.Engine\bin\Debug\net8.0\ImageMetadataViewer.Infrastructure.pdb
+E:\pet-projects\ImageMetadataViewer\ImageMetadataViewer.Engine\obj\Debug\net8.0\ImageMetadataViewer.Engine.csproj.AssemblyReference.cache
+E:\pet-projects\ImageMetadataViewer\ImageMetadataViewer.Engine\obj\Debug\net8.0\ImageMetadataViewer.Engine.GeneratedMSBuildEditorConfig.editorconfig
+E:\pet-projects\ImageMetadataViewer\ImageMetadataViewer.Engine\obj\Debug\net8.0\ImageMetadataViewer.Engine.AssemblyInfoInputs.cache
+E:\pet-projects\ImageMetadataViewer\ImageMetadataViewer.Engine\obj\Debug\net8.0\ImageMetadataViewer.Engine.AssemblyInfo.cs
+E:\pet-projects\ImageMetadataViewer\ImageMetadataViewer.Engine\obj\Debug\net8.0\ImageMetadataViewer.Engine.csproj.CoreCompileInputs.cache
+E:\pet-projects\ImageMetadataViewer\ImageMetadataViewer.Engine\obj\Debug\net8.0\ImageMetadataViewer.Engine.sourcelink.json
+E:\pet-projects\ImageMetadataViewer\ImageMetadataViewer.Engine\obj\Debug\net8.0\ImageMet.3CF74CB7.Up2Date
+E:\pet-projects\ImageMetadataViewer\ImageMetadataViewer.Engine\obj\Debug\net8.0\ImageMetadataViewer.Engine.dll
+E:\pet-projects\ImageMetadataViewer\ImageMetadataViewer.Engine\obj\Debug\net8.0\refint\ImageMetadataViewer.Engine.dll
+E:\pet-projects\ImageMetadataViewer\ImageMetadataViewer.Engine\obj\Debug\net8.0\ImageMetadataViewer.Engine.pdb
+E:\pet-projects\ImageMetadataViewer\ImageMetadataViewer.Engine\obj\Debug\net8.0\ref\ImageMetadataViewer.Engine.dll

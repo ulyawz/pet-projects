@@ -1,0 +1,34 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageMetadataViewer.Infrastructure", "ImageMetadataViewer.Infrastructure\ImageMetadataViewer.Infrastructure.csproj", "{35EB578E-91C0-49F3-82C7-85E93A4F33F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageMetadataViewer.Engine", "ImageMetadataViewer.Engine\ImageMetadataViewer.Engine.csproj", "{B22623B1-2FDC-4DEE-9335-FCDDE0791D7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageMetadataViewer.App", "ImageMetadataViewer.App\ImageMetadataViewer.App.csproj", "{AB681B3A-208D-4BC7-ACE4-C148ACF4C1AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35EB578E-91C0-49F3-82C7-85E93A4F33F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35EB578E-91C0-49F3-82C7-85E93A4F33F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35EB578E-91C0-49F3-82C7-85E93A4F33F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35EB578E-91C0-49F3-82C7-85E93A4F33F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B22623B1-2FDC-4DEE-9335-FCDDE0791D7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B22623B1-2FDC-4DEE-9335-FCDDE0791D7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B22623B1-2FDC-4DEE-9335-FCDDE0791D7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B22623B1-2FDC-4DEE-9335-FCDDE0791D7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB681B3A-208D-4BC7-ACE4-C148ACF4C1AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB681B3A-208D-4BC7-ACE4-C148ACF4C1AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB681B3A-208D-4BC7-ACE4-C148ACF4C1AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB681B3A-208D-4BC7-ACE4-C148ACF4C1AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

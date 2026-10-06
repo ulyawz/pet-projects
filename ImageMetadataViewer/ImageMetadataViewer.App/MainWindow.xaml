@@ -1,0 +1,87 @@
+<Window x:Class="ImageMetadataViewer.App.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:ImageMetadataViewer.App"
+        Title="Лабораторная работа 2 — Чтение информации из графических файлов"
+        Height="700" Width="1200" MinHeight="500" MinWidth="900">
+    <Window.Resources>
+        <local:NullDisplayConverter x:Key="NullDisplay"/>
+        <local:CorruptedToStatusConverter x:Key="CorruptedToStatus"/>
+        <local:CorruptedToBrushConverter x:Key="CorruptedToBrush"/>
+        <local:StringToVisibilityConverter x:Key="StringToVisibility"/>
+    </Window.Resources>
+
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0" Orientation="Horizontal" Margin="0,0,0,8">
+            <Button x:Name="ChooseFolderButton" Content="Выбрать папку и сканировать..." Padding="10,4" Click="ChooseFolderButton_Click"/>
+            <Button x:Name="CancelButton" Content="Отмена" Padding="10,4" Margin="8,0,0,0" IsEnabled="False" Click="CancelButton_Click"/>
+            <TextBlock x:Name="FolderPathText" Margin="16,0,0,0" VerticalAlignment="Center" Foreground="Gray"/>
+        </StackPanel>
+
+        <Grid Grid.Row="1" Margin="0,0,0,8">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <ProgressBar x:Name="ScanProgressBar" Grid.Column="0" Height="18" Minimum="0" Maximum="100"/>
+            <TextBlock x:Name="StatusText" Grid.Column="1" Margin="10,0,0,0" VerticalAlignment="Center"/>
+        </Grid>
+
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="3*"/>
+                <ColumnDefinition Width="6"/>
+                <ColumnDefinition Width="1.3*"/>
+            </Grid.ColumnDefinitions>
+
+            <DataGrid x:Name="ResultsGrid" Grid.Column="0"
+                      AutoGenerateColumns="False" IsReadOnly="True"
+                      CanUserAddRows="False" CanUserDeleteRows="False"
+                      GridLinesVisibility="Horizontal" AlternatingRowBackground="#F4F6F8"
+                      EnableRowVirtualization="True" EnableColumnVirtualization="True"
+                      VirtualizingPanel.IsVirtualizing="True" VirtualizingPanel.VirtualizationMode="Recycling"
+                      SelectionChanged="ResultsGrid_SelectionChanged">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Файл" Binding="{Binding FileName}" Width="1.6*"/>
+                    <DataGridTextColumn Header="Формат" Binding="{Binding Format}" Width="0.7*"/>
+                    <DataGridTextColumn Header="Ширина" Binding="{Binding WidthPx, Converter={StaticResource NullDisplay}}" Width="0.6*"/>
+                    <DataGridTextColumn Header="Высота" Binding="{Binding HeightPx, Converter={StaticResource NullDisplay}}" Width="0.6*"/>
+                    <DataGridTextColumn Header="DPI X" Binding="{Binding DpiX, Converter={StaticResource NullDisplay}}" Width="0.6*"/>
+                    <DataGridTextColumn Header="DPI Y" Binding="{Binding DpiY, Converter={StaticResource NullDisplay}}" Width="0.6*"/>
+                    <DataGridTextColumn Header="Глубина цвета" Binding="{Binding ColorDepthBits, Converter={StaticResource NullDisplay}}" Width="0.8*"/>
+                    <DataGridTextColumn Header="Сжатие" Binding="{Binding Compression, Converter={StaticResource NullDisplay}}" Width="1.4*"/>
+                    <DataGridTextColumn Header="Доп. инфо" Binding="{Binding ExtraInfo, Converter={StaticResource NullDisplay}}" Width="1.6*"/>
+                    <DataGridTemplateColumn Header="Статус" Width="0.8*">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding IsCorrupted, Converter={StaticResource CorruptedToStatus}}"
+                                           Foreground="{Binding IsCorrupted, Converter={StaticResource CorruptedToBrush}}"
+                                           FontWeight="SemiBold"
+                                           ToolTip="{Binding ErrorMessage}"/>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                </DataGrid.Columns>
+            </DataGrid>
+
+            <GridSplitter Grid.Column="1" HorizontalAlignment="Stretch" Background="#DDD"/>
+
+
+            <StackPanel Grid.Column="2" Margin="8,0,0,0">
+                <TextBlock Text="Предпросмотр" FontWeight="Bold" Margin="0,0,0,6"/>
+                <Border BorderBrush="#CCC" BorderThickness="1" Height="220" Background="#FAFAFA">
+                    <Image x:Name="PreviewImage" Stretch="Uniform" Margin="4"/>
+                </Border>
+                <TextBlock x:Name="PreviewInfoText" Margin="0,8,0,0" TextWrapping="Wrap" FontSize="12"/>
+                <TextBlock x:Name="PreviewErrorText" Margin="0,8,0,0" TextWrapping="Wrap" FontSize="12" Foreground="Crimson"
+                           Visibility="{Binding Text, RelativeSource={RelativeSource Self}, Converter={StaticResource StringToVisibility}}"/>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>
