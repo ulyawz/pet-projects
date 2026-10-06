@@ -48,6 +48,7 @@ HSV represents colors using:
 
 The application follows the **Model–View–ViewModel (MVVM)** approach.
 
+```text
 ColorModelConverter
 ├── ColorModelConverter.App
 │   ├── View

@@ -36,6 +36,7 @@ The project contains parsers for:
 
 The application is divided into several independent components:
 
+```text
 ImageMetadataViewer
 ├── ImageMetadataViewer.App
 │   └── WPF user interface
