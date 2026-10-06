@@ -1,9 +1,6 @@
 
----
-
 ### `TicTacToe/README.md`
 
-```markdown
 # Tic-Tac-Toe
 
 A graphical Tic-Tac-Toe game developed in **C++** using **Qt**.

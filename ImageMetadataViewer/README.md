@@ -1,9 +1,7 @@
 
----
-
 ### `ImageMetadataViewer/README.md`
 
-```markdown
+
 # Image Metadata Viewer
 
 A desktop application developed in **C#** and **WPF** for analyzing image files and displaying their metadata.
@@ -38,7 +36,6 @@ The project contains parsers for:
 
 The application is divided into several independent components:
 
-```text
 ImageMetadataViewer
 ├── ImageMetadataViewer.App
 │   └── WPF user interface
